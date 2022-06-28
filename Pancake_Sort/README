@@ -1,0 +1,5 @@
+## Pancake Sorting
+
+run `gprbuild -P pancake_sort.gpr` to build
+run `./main` to execute
+run `gnatprove -P pancake_sort.gpr --prover=z3 --steps=0` to prove
